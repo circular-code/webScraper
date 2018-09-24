@@ -1,5 +1,5 @@
 # webScraper
-test web scraper with node js
+test web scraper with node js, scraping top loved people data from freecodecamp
 
 ## dependencies
 
