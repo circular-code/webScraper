@@ -10,4 +10,4 @@ npm install cli-table
 
 ## how to run
 after installing all dependencies run
-´node app.js´
+`node app.js`
